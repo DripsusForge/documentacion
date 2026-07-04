@@ -1,0 +1,28 @@
+{
+  "id": "backend/descuentos",
+  "title": "Descuentos",
+  "description": "Archivo: controllers/Descuentos/descuentos.controller.js",
+  "source": "@site/docs/backend/descuentos.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/descuentos",
+  "permalink": "/backend/descuentos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "descuentos",
+    "title": "Descuentos",
+    "sidebar_position": 6
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Productos",
+    "permalink": "/backend/productos"
+  },
+  "next": {
+    "title": "Pedidos",
+    "permalink": "/backend/pedidos"
+  }
+}

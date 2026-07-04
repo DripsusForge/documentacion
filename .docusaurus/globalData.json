@@ -1,0 +1,187 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "introduccion/overview",
+          "docs": [
+            {
+              "id": "backend/autenticacion",
+              "path": "/backend/autenticacion",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/categorias",
+              "path": "/backend/categorias",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/descuentos",
+              "path": "/backend/descuentos",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/overview",
+              "path": "/backend/overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/pagos",
+              "path": "/backend/pagos",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/pedidos",
+              "path": "/backend/pedidos",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/productos",
+              "path": "/backend/productos",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/reservas",
+              "path": "/backend/reservas",
+              "sidebar": "docs"
+            },
+            {
+              "id": "backend/usuarios",
+              "path": "/backend/usuarios",
+              "sidebar": "docs"
+            },
+            {
+              "id": "base-datos/index",
+              "path": "/base-datos/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "calidad/documentacion",
+              "path": "/calidad/documentacion",
+              "sidebar": "docs"
+            },
+            {
+              "id": "calidad/index",
+              "path": "/calidad/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "despliegue/index",
+              "path": "/despliegue/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "frontend/admin",
+              "path": "/frontend/admin",
+              "sidebar": "docs"
+            },
+            {
+              "id": "frontend/checkout",
+              "path": "/frontend/checkout",
+              "sidebar": "docs"
+            },
+            {
+              "id": "frontend/index",
+              "path": "/frontend/"
+            },
+            {
+              "id": "frontend/layout",
+              "path": "/frontend/layout",
+              "sidebar": "docs"
+            },
+            {
+              "id": "frontend/overview",
+              "path": "/frontend/overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "frontend/tienda",
+              "path": "/frontend/tienda",
+              "sidebar": "docs"
+            },
+            {
+              "id": "frontend/tiendaperfil",
+              "path": "/frontend/tiendaperfil",
+              "sidebar": "docs"
+            },
+            {
+              "id": "introduccion/estructura",
+              "path": "/introduccion/estructura",
+              "sidebar": "docs"
+            },
+            {
+              "id": "introduccion/instalacion",
+              "path": "/introduccion/instalacion",
+              "sidebar": "docs"
+            },
+            {
+              "id": "introduccion/overview",
+              "path": "/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "proyecto/dofa",
+              "path": "/proyecto/dofa",
+              "sidebar": "docs"
+            },
+            {
+              "id": "proyecto/especificacion-requerimientos",
+              "path": "/proyecto/especificacion-requerimientos",
+              "sidebar": "docs"
+            },
+            {
+              "id": "proyecto/listado-issues",
+              "path": "/proyecto/listado-issues",
+              "sidebar": "docs"
+            },
+            {
+              "id": "proyecto/manual-tecnico",
+              "path": "/proyecto/manual-tecnico",
+              "sidebar": "docs"
+            },
+            {
+              "id": "proyecto/manual-usuario",
+              "path": "/proyecto/manual-usuario",
+              "sidebar": "docs"
+            },
+            {
+              "id": "proyecto/migracion-datos",
+              "path": "/proyecto/migracion-datos",
+              "sidebar": "docs"
+            },
+            {
+              "id": "proyecto/plataforma-tecnologica",
+              "path": "/proyecto/plataforma-tecnologica",
+              "sidebar": "docs"
+            },
+            {
+              "id": "proyecto/respaldo-datos",
+              "path": "/proyecto/respaldo-datos",
+              "sidebar": "docs"
+            },
+            {
+              "id": "proyecto/verificacion-hardware",
+              "path": "/proyecto/verificacion-hardware",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/",
+                "label": "introduccion/overview"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

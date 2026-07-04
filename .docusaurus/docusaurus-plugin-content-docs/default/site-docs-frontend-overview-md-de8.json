@@ -1,0 +1,28 @@
+{
+  "id": "frontend/overview",
+  "title": "Frontend — Resumen",
+  "description": "El frontend está construido con React + Vite, ubicado en la carpeta Cliente/.",
+  "source": "@site/docs/frontend/overview.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/overview",
+  "permalink": "/frontend/overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "overview",
+    "title": "Frontend — Resumen",
+    "sidebar_position": 1
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Pagos (Mercado Pago)",
+    "permalink": "/backend/pagos"
+  },
+  "next": {
+    "title": "Layout y componentes base",
+    "permalink": "/frontend/layout"
+  }
+}

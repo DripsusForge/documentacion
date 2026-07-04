@@ -1,0 +1,28 @@
+{
+  "id": "frontend/layout",
+  "title": "Layout y componentes base",
+  "description": "Layout (components/Layout.jsx)",
+  "source": "@site/docs/frontend/layout.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/layout",
+  "permalink": "/frontend/layout",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "layout",
+    "title": "Layout y componentes base",
+    "sidebar_position": 2
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Frontend — Resumen",
+    "permalink": "/frontend/overview"
+  },
+  "next": {
+    "title": "Panel de administración",
+    "permalink": "/frontend/admin"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "frontend/index",
+  "title": "Frontend",
+  "description": "El frontend está construido con React + Vite y usa Bootstrap Icons para los íconos.",
+  "source": "@site/docs/frontend/index.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/",
+  "permalink": "/frontend/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "index",
+    "title": "Frontend",
+    "sidebar_position": 1
+  }
+}

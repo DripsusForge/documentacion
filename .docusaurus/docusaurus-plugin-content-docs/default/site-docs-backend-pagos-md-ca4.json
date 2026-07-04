@@ -1,0 +1,28 @@
+{
+  "id": "backend/pagos",
+  "title": "Pagos (Mercado Pago)",
+  "description": "Archivo: controllers/Pagos/pagos.controller.js",
+  "source": "@site/docs/backend/pagos.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/pagos",
+  "permalink": "/backend/pagos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "pagos",
+    "title": "Pagos (Mercado Pago)",
+    "sidebar_position": 8
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Reservas de Stock",
+    "permalink": "/backend/reservas"
+  },
+  "next": {
+    "title": "Frontend — Resumen",
+    "permalink": "/frontend/overview"
+  }
+}

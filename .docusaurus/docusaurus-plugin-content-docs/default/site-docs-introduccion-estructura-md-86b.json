@@ -1,0 +1,28 @@
+{
+  "id": "introduccion/estructura",
+  "title": "Estructura del proyecto",
+  "description": "",
+  "source": "@site/docs/introduccion/estructura.md",
+  "sourceDirName": "introduccion",
+  "slug": "/introduccion/estructura",
+  "permalink": "/introduccion/estructura",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "estructura",
+    "title": "Estructura del proyecto",
+    "sidebar_position": 3
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Instalación",
+    "permalink": "/introduccion/instalacion"
+  },
+  "next": {
+    "title": "Backend — Resumen",
+    "permalink": "/backend/overview"
+  }
+}

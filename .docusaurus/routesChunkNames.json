@@ -1,0 +1,186 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/-f54": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
+    }
+  },
+  "/-596": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-280": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/backend/autenticacion-2ff": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-autenticacion-416-6b7"
+  },
+  "/backend/categorias-354": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-categoriasa-38-356"
+  },
+  "/backend/descuentos-88a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-descuentos-4-ed-9bf"
+  },
+  "/backend/overview-5c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-overview-629-1f0"
+  },
+  "/backend/pagos-9d5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-pagosca-4-704"
+  },
+  "/backend/pedidos-900": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-pedidos-350-c16"
+  },
+  "/backend/productos-9a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-productos-449-cfa"
+  },
+  "/backend/reservas-6e0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-reservas-439-a9f"
+  },
+  "/backend/usuarios-821": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---backend-usuarios-388-496"
+  },
+  "/base-datos/-fd3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---base-datos-472-2b8"
+  },
+  "/calidad/-538": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---calidad-970-7e5"
+  },
+  "/calidad/documentacion-1f8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---calidad-documentacionf-2-a-528"
+  },
+  "/despliegue/-755": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---despliegue-eb-8-a12"
+  },
+  "/frontend/-cb9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-139-4f2"
+  },
+  "/frontend/admin-f4e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-adminf-5-f-840"
+  },
+  "/frontend/checkout-eee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-checkoutd-45-c3c"
+  },
+  "/frontend/layout-1e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-layout-104-9cb"
+  },
+  "/frontend/overview-743": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-overviewde-8-5a4"
+  },
+  "/frontend/tienda-0cb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-tiendad-43-07f"
+  },
+  "/frontend/tiendaperfil-7d8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---frontend-tiendaperfil-588-b02"
+  },
+  "/introduccion/estructura-ae2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---introduccion-estructura-86-b-ea6"
+  },
+  "/introduccion/instalacion-eb7": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---introduccion-instalacion-6-f-2-cec"
+  },
+  "/proyecto/dofa-9f5": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---proyecto-dofa-9-e-9-d73"
+  },
+  "/proyecto/especificacion-requerimientos-040": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---proyecto-especificacion-requerimientos-8-d-0-7d6"
+  },
+  "/proyecto/listado-issues-e50": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---proyecto-listado-issues-151-378"
+  },
+  "/proyecto/manual-tecnico-888": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---proyecto-manual-tecnicob-4-b-1b9"
+  },
+  "/proyecto/manual-usuario-3a9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---proyecto-manual-usuario-375-557"
+  },
+  "/proyecto/migracion-datos-693": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---proyecto-migracion-datos-10-a-139"
+  },
+  "/proyecto/plataforma-tecnologica-596": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---proyecto-plataforma-tecnologica-119-724"
+  },
+  "/proyecto/respaldo-datos-43d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---proyecto-respaldo-datos-1-f-8-726"
+  },
+  "/proyecto/verificacion-hardware-f61": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---proyecto-verificacion-hardwaree-25-c3e"
+  },
+  "/-03b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---86-f-c28"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "introduccion/overview",
+  "title": "¿Qué es Moda Mágica?",
+  "description": "Sistema de e-commerce completo con panel de administración y tienda pública.",
+  "source": "@site/docs/introduccion/overview.md",
+  "sourceDirName": "introduccion",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "overview",
+    "title": "¿Qué es Moda Mágica?",
+    "sidebar_position": 1,
+    "slug": "/"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Instalación",
+    "permalink": "/introduccion/instalacion"
+  }
+}

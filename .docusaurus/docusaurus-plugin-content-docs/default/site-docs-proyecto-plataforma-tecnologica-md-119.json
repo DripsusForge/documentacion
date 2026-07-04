@@ -1,0 +1,28 @@
+{
+  "id": "proyecto/plataforma-tecnologica",
+  "title": "Preparar la Plataforma Tecnológica",
+  "description": "Este documento amplía, con el detalle completo del proceso de aprovisionamiento, lo resumido en la sección de Despliegue.",
+  "source": "@site/docs/proyecto/plataforma-tecnologica.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/plataforma-tecnologica",
+  "permalink": "/proyecto/plataforma-tecnologica",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "plataforma-tecnologica",
+    "title": "Preparar la Plataforma Tecnológica",
+    "sidebar_position": 3
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Plan de Migración de Datos",
+    "permalink": "/proyecto/migracion-datos"
+  },
+  "next": {
+    "title": "Verificación de Hardware",
+    "permalink": "/proyecto/verificacion-hardware"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "backend/usuarios",
+  "title": "Usuarios",
+  "description": "Archivo: controllers/Usuarios/usuarios.controllers.js",
+  "source": "@site/docs/backend/usuarios.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/usuarios",
+  "permalink": "/backend/usuarios",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "usuarios",
+    "title": "Usuarios",
+    "sidebar_position": 3
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Autenticación",
+    "permalink": "/backend/autenticacion"
+  },
+  "next": {
+    "title": "Categorías",
+    "permalink": "/backend/categorias"
+  }
+}

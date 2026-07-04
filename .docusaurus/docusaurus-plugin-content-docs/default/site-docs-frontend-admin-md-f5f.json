@@ -1,0 +1,28 @@
+{
+  "id": "frontend/admin",
+  "title": "Panel de administración",
+  "description": "Login (pages/login/)",
+  "source": "@site/docs/frontend/admin.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/admin",
+  "permalink": "/frontend/admin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "id": "admin",
+    "title": "Panel de administración",
+    "sidebar_position": 3
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Layout y componentes base",
+    "permalink": "/frontend/layout"
+  },
+  "next": {
+    "title": "Tienda pública",
+    "permalink": "/frontend/tienda"
+  }
+}

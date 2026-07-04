@@ -1,0 +1,28 @@
+{
+  "id": "backend/reservas",
+  "title": "Reservas de Stock",
+  "description": "Archivo: controllers/Reservas/reservas.controller.js",
+  "source": "@site/docs/backend/reservas.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/reservas",
+  "permalink": "/backend/reservas",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "reservas",
+    "title": "Reservas de Stock",
+    "sidebar_position": 9
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Pedidos",
+    "permalink": "/backend/pedidos"
+  },
+  "next": {
+    "title": "Pagos (Mercado Pago)",
+    "permalink": "/backend/pagos"
+  }
+}

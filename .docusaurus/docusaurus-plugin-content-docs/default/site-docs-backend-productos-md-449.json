@@ -1,0 +1,28 @@
+{
+  "id": "backend/productos",
+  "title": "Productos",
+  "description": "Archivo: controllers/Productos/productos.controller.js",
+  "source": "@site/docs/backend/productos.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/productos",
+  "permalink": "/backend/productos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "productos",
+    "title": "Productos",
+    "sidebar_position": 5
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Categorías",
+    "permalink": "/backend/categorias"
+  },
+  "next": {
+    "title": "Descuentos",
+    "permalink": "/backend/descuentos"
+  }
+}

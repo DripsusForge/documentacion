@@ -1,0 +1,28 @@
+{
+  "id": "proyecto/manual-tecnico",
+  "title": "Manual Técnico",
+  "description": "Versión del sistema 2 de julio de 2026 · Ubicación: Medellín, Antioquia, Colombia",
+  "source": "@site/docs/proyecto/manual-tecnico.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/manual-tecnico",
+  "permalink": "/proyecto/manual-tecnico",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "id": "manual-tecnico",
+    "title": "Manual Técnico",
+    "sidebar_position": 8
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Análisis DOFA",
+    "permalink": "/proyecto/dofa"
+  },
+  "next": {
+    "title": "Manual de Usuario",
+    "permalink": "/proyecto/manual-usuario"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "calidad/documentacion",
+  "title": "Documentación",
+  "description": "Diagrama de arquitectura",
+  "source": "@site/docs/calidad/documentacion.md",
+  "sourceDirName": "calidad",
+  "slug": "/calidad/documentacion",
+  "permalink": "/calidad/documentacion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "documentacion",
+    "title": "Documentación",
+    "sidebar_position": 2
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Calidad y Pruebas",
+    "permalink": "/calidad/"
+  },
+  "next": {
+    "title": "Plan de Respaldo de Datos",
+    "permalink": "/proyecto/respaldo-datos"
+  }
+}

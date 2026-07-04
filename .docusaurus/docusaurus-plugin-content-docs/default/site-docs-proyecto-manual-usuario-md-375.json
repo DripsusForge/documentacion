@@ -1,0 +1,24 @@
+{
+  "id": "proyecto/manual-usuario",
+  "title": "Manual de Usuario",
+  "description": "Versión julio de 2026 · Dirigido a: Administradores y Superadmin",
+  "source": "@site/docs/proyecto/manual-usuario.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/manual-usuario",
+  "permalink": "/proyecto/manual-usuario",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "id": "manual-usuario",
+    "title": "Manual de Usuario",
+    "sidebar_position": 9
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Manual Técnico",
+    "permalink": "/proyecto/manual-tecnico"
+  }
+}

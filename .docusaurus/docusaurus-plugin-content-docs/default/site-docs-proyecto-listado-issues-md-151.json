@@ -1,0 +1,28 @@
+{
+  "id": "proyecto/listado-issues",
+  "title": "Listado Completo de Issues",
+  "description": "Extraído del backlog y proyecto completo de GitHub: SantiagoGiraldoRodriguez/ModaMagica.",
+  "source": "@site/docs/proyecto/listado-issues.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/listado-issues",
+  "permalink": "/proyecto/listado-issues",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "listado-issues",
+    "title": "Listado Completo de Issues",
+    "sidebar_position": 5
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Verificación de Hardware",
+    "permalink": "/proyecto/verificacion-hardware"
+  },
+  "next": {
+    "title": "Especificación de Requerimientos",
+    "permalink": "/proyecto/especificacion-requerimientos"
+  }
+}

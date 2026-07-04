@@ -1,0 +1,28 @@
+{
+  "id": "proyecto/migracion-datos",
+  "title": "Plan de Migración de Datos",
+  "description": "Versión Borrador técnico de arquitectura",
+  "source": "@site/docs/proyecto/migracion-datos.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/migracion-datos",
+  "permalink": "/proyecto/migracion-datos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "migracion-datos",
+    "title": "Plan de Migración de Datos",
+    "sidebar_position": 2
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Plan de Respaldo de Datos",
+    "permalink": "/proyecto/respaldo-datos"
+  },
+  "next": {
+    "title": "Preparar la Plataforma Tecnológica",
+    "permalink": "/proyecto/plataforma-tecnologica"
+  }
+}

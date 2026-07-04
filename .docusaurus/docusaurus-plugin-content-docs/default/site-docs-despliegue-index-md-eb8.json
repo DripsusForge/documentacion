@@ -1,0 +1,28 @@
+{
+  "id": "despliegue/index",
+  "title": "Despliegue",
+  "description": "El proyecto está desplegado en Render (free tier).",
+  "source": "@site/docs/despliegue/index.md",
+  "sourceDirName": "despliegue",
+  "slug": "/despliegue/",
+  "permalink": "/despliegue/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "index",
+    "title": "Despliegue",
+    "sidebar_position": 1
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Base de datos",
+    "permalink": "/base-datos/"
+  },
+  "next": {
+    "title": "Calidad y Pruebas",
+    "permalink": "/calidad/"
+  }
+}

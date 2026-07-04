@@ -1,0 +1,28 @@
+{
+  "id": "proyecto/verificacion-hardware",
+  "title": "Verificación de Hardware",
+  "description": "Programa 3065123",
+  "source": "@site/docs/proyecto/verificacion-hardware.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/verificacion-hardware",
+  "permalink": "/proyecto/verificacion-hardware",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "verificacion-hardware",
+    "title": "Verificación de Hardware",
+    "sidebar_position": 4
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Preparar la Plataforma Tecnológica",
+    "permalink": "/proyecto/plataforma-tecnologica"
+  },
+  "next": {
+    "title": "Listado Completo de Issues",
+    "permalink": "/proyecto/listado-issues"
+  }
+}

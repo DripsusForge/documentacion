@@ -1,0 +1,28 @@
+{
+  "id": "backend/autenticacion",
+  "title": "Autenticación",
+  "description": "Archivo: controllers/Auth/authController.js",
+  "source": "@site/docs/backend/autenticacion.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/autenticacion",
+  "permalink": "/backend/autenticacion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "autenticacion",
+    "title": "Autenticación",
+    "sidebar_position": 2
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Backend — Resumen",
+    "permalink": "/backend/overview"
+  },
+  "next": {
+    "title": "Usuarios",
+    "permalink": "/backend/usuarios"
+  }
+}

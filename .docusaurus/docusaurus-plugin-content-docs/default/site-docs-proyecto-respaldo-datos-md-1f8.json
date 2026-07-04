@@ -1,0 +1,28 @@
+{
+  "id": "proyecto/respaldo-datos",
+  "title": "Plan de Respaldo de Datos",
+  "description": "Versión Render PostgreSQL (Producción) · Clasificación: Confidencial / Técnico",
+  "source": "@site/docs/proyecto/respaldo-datos.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/respaldo-datos",
+  "permalink": "/proyecto/respaldo-datos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "id": "respaldo-datos",
+    "title": "Plan de Respaldo de Datos",
+    "sidebar_position": 1
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Documentación",
+    "permalink": "/calidad/documentacion"
+  },
+  "next": {
+    "title": "Plan de Migración de Datos",
+    "permalink": "/proyecto/migracion-datos"
+  }
+}

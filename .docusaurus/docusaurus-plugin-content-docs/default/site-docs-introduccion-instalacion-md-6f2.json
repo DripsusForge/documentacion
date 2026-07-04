@@ -1,0 +1,28 @@
+{
+  "id": "introduccion/instalacion",
+  "title": "Instalación",
+  "description": "Requisitos previos",
+  "source": "@site/docs/introduccion/instalacion.md",
+  "sourceDirName": "introduccion",
+  "slug": "/introduccion/instalacion",
+  "permalink": "/introduccion/instalacion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "id": "instalacion",
+    "title": "Instalación",
+    "sidebar_position": 2
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "¿Qué es Moda Mágica?",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Estructura del proyecto",
+    "permalink": "/introduccion/estructura"
+  }
+}

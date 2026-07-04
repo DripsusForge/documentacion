@@ -1,0 +1,28 @@
+{
+  "id": "proyecto/especificacion-requerimientos",
+  "title": "Especificación de Requerimientos",
+  "description": "📄 Descargar Especificación de Requerimientos (PDF)",
+  "source": "@site/docs/proyecto/especificacion-requerimientos.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/especificacion-requerimientos",
+  "permalink": "/proyecto/especificacion-requerimientos",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "especificacion-requerimientos",
+    "title": "Especificación de Requerimientos",
+    "sidebar_position": 6
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Listado Completo de Issues",
+    "permalink": "/proyecto/listado-issues"
+  },
+  "next": {
+    "title": "Análisis DOFA",
+    "permalink": "/proyecto/dofa"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "proyecto/dofa",
+  "title": "Análisis DOFA",
+  "description": "Versión 10 de marzo de 2025",
+  "source": "@site/docs/proyecto/dofa.md",
+  "sourceDirName": "proyecto",
+  "slug": "/proyecto/dofa",
+  "permalink": "/proyecto/dofa",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "id": "dofa",
+    "title": "Análisis DOFA",
+    "sidebar_position": 7
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Especificación de Requerimientos",
+    "permalink": "/proyecto/especificacion-requerimientos"
+  },
+  "next": {
+    "title": "Manual Técnico",
+    "permalink": "/proyecto/manual-tecnico"
+  }
+}

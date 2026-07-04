@@ -1,0 +1,28 @@
+{
+  "id": "backend/categorias",
+  "title": "Categorías",
+  "description": "Archivo: controllers/Categorias/categorias.controller.js",
+  "source": "@site/docs/backend/categorias.md",
+  "sourceDirName": "backend",
+  "slug": "/backend/categorias",
+  "permalink": "/backend/categorias",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "id": "categorias",
+    "title": "Categorías",
+    "sidebar_position": 4
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Usuarios",
+    "permalink": "/backend/usuarios"
+  },
+  "next": {
+    "title": "Productos",
+    "permalink": "/backend/productos"
+  }
+}

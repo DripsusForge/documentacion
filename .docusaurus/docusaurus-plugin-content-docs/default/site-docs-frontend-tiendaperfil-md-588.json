@@ -1,0 +1,28 @@
+{
+  "id": "frontend/tiendaperfil",
+  "title": "Perfil del Cliente",
+  "description": "Archivo: pages/tiendaPerfil/Tiendaperfil.jsx, Tiendaperfil.css",
+  "source": "@site/docs/frontend/tiendaperfil.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/tiendaperfil",
+  "permalink": "/frontend/tiendaperfil",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "id": "tiendaperfil",
+    "title": "Perfil del Cliente",
+    "sidebar_position": 6
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Tienda pública",
+    "permalink": "/frontend/tienda"
+  },
+  "next": {
+    "title": "Checkout",
+    "permalink": "/frontend/checkout"
+  }
+}

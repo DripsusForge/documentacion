@@ -1,0 +1,28 @@
+{
+  "id": "frontend/checkout",
+  "title": "Checkout",
+  "description": "Archivo: pages/checkout/Checkout.jsx, Checkout.css",
+  "source": "@site/docs/frontend/checkout.md",
+  "sourceDirName": "frontend",
+  "slug": "/frontend/checkout",
+  "permalink": "/frontend/checkout",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "id": "checkout",
+    "title": "Checkout",
+    "sidebar_position": 5
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Perfil del Cliente",
+    "permalink": "/frontend/tiendaperfil"
+  },
+  "next": {
+    "title": "Base de datos",
+    "permalink": "/base-datos/"
+  }
+}
